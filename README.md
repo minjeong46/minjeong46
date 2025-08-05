@@ -1,4 +1,23 @@
-## Hi there 👋
+# 👋 I Can Do It 
+의문과 질문을 가지고 더 좋은 코드를 리팩토링하여 사용자가 편리하고, 유지보수가 편한 웹을 개발하는 개발자가 되는 것이 목표입니다.
+
+## 💻 Skill
+- React
+- HTML
+- CSS
+- JavaScript
+- JAVA
+- SpringBoot
+- MySQLDB
+
+## 💪 수련중
+- React
+- python
+- firebase
+
+
+
+
 
 <!--
 **minjeong46/minjeong46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
