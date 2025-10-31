@@ -8,12 +8,11 @@
 - JavaScript
 - JAVA
 - SpringBoot
-- MySQLDB
+- MySQL
 
 ## 💪 수련중
 - React
-- python
-- firebase
+- TypeScript
 
 
 
